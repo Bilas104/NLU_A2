@@ -1,0 +1,307 @@
+============================================================
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+SEMANTIC ANALYSIS RESULTS
+=
+
+
+━━━ PART 1: NEAREST NEIGHBORS ━━━
+
+──────────────────────────────────────────────────
+Query word: 'research'
+──────────────────────────────────────────────────
+
+  [CBOW]
+  Rank   Word                 Cosine Similarity
+  ────── ──────────────────── ──────────────────
+  1      and                  0.4048
+  2      passion              0.3820
+  3      the                  0.3668
+  4      technological        0.3662
+  5      engineering          0.3646
+
+  [Skip-gram]
+  Rank   Word                 Cosine Similarity
+  ────── ──────────────────── ──────────────────
+  1      areas                0.5093
+  2      laboratories         0.4846
+  3      themes               0.4610
+  4      interdisciplinary    0.4522
+  5      jump                 0.4511
+
+──────────────────────────────────────────────────
+Query word: 'student'
+──────────────────────────────────────────────────
+
+  [CBOW]
+  Rank   Word                 Cosine Similarity
+  ────── ──────────────────── ──────────────────
+  1      students             0.6473
+  2      the                  0.4733
+  3      he                   0.4720
+  4      be                   0.4644
+  5      candidate            0.4626
+
+  [Skip-gram]
+  Rank   Word                 Cosine Similarity
+  ────── ──────────────────── ──────────────────
+  1      students             0.4838
+  2      registered           0.4824
+  3      opted                0.4682
+  4      he                   0.4584
+  5      visiting             0.4564
+
+──────────────────────────────────────────────────
+Query word: 'phd'
+──────────────────────────────────────────────────
+
+  [CBOW]
+  Rank   Word                 Cosine Similarity
+  ────── ──────────────────── ──────────────────
+  1      ph                   0.6046
+  2      postgraduate         0.3927
+  3      mtech                0.3515
+  4      curriculum           0.3409
+  5      provisionally        0.3351
+
+  [Skip-gram]
+  Rank   Word                 Cosine Similarity
+  ────── ──────────────────── ──────────────────
+  1      mtech                0.6248
+  2      autumn               0.5704
+  3      ph                   0.5450
+  4      formtech             0.5422
+  5      studen               0.5313
+
+──────────────────────────────────────────────────
+Query word: 'exam'
+──────────────────────────────────────────────────
+
+  [CBOW]
+  Rank   Word                 Cosine Similarity
+  ────── ──────────────────── ──────────────────
+  1      examination3         0.5859
+  2      quiz                 0.5735
+  3      shewasadmittedinthehospitalduringtheperiod 0.4661
+  4      follow               0.4427
+  5      examinations         0.4176
+
+  [Skip-gram]
+  Rank   Word                 Cosine Similarity
+  ────── ──────────────────── ──────────────────
+  1      quiz                 0.6983
+  2      shewasadmittedinthehospitalduringtheperiod 0.6293
+  3      ceroftheinstitutethathe 0.6223
+  4      medicalo             0.5955
+  5      comprehensive        0.5874
+
+
+━━━ PART 2: ANALOGY EXPERIMENTS ━━━
+
+──────────────────────────────────────────────────
+Analogy: UG : BTech :: PG : ?
+  Method: vec(btech) - vec(ug) + vec(pg)
+──────────────────────────────────────────────────
+
+  [CBOW]
+  Rank   Predicted Word       Score
+  ────── ──────────────────── ──────────
+  1      mtech                0.4894
+  2      diploma              0.4692
+  3      bsc                  0.4435
+  4      specialisation       0.4355
+  5      stackable            0.4203
+
+  [Skip-gram]
+  Rank   Predicted Word       Score
+  ────── ──────────────────── ──────────
+  1      mba                  0.5750
+  2      undergraduation      0.5212
+  3      diploma              0.4986
+  4      specialisation       0.4893
+  5      mtech                0.4880
+
+──────────────────────────────────────────────────
+Analogy: professor : teaching :: student : ?
+  Method: vec(teaching) - vec(professor) + vec(student)
+──────────────────────────────────────────────────
+
+  [CBOW]
+  Rank   Predicted Word       Score
+  ────── ──────────────────── ──────────
+  1      students             0.5648
+  2      participate          0.4119
+  3      index                0.4055
+  4      the                  0.3949
+  5      credits              0.3912
+
+  [Skip-gram]
+  Rank   Predicted Word       Score
+  ────── ──────────────────── ──────────
+  1      assistantship        0.5086
+  2      students             0.4581
+  3      medium               0.4348
+  4      maternity            0.4301
+  5      evaluation4          0.4163
+
+──────────────────────────────────────────────────
+Analogy: CSE : computer :: EE : ?
+  Method: vec(computer) - vec(cse) + vec(ee)
+──────────────────────────────────────────────────
+
+  [CBOW]
+  Rank   Predicted Word       Score
+  ────── ──────────────────── ──────────
+  1      engineering2cscomputer 0.4156
+  2      engineering3eeelectrical 0.4065
+  3      earthquake           0.3980
+  4      titledigital         0.3771
+  5      rheometer            0.3759
+
+  [Skip-gram]
+  Rank   Predicted Word       Score
+  ────── ──────────────────── ──────────
+  1      cslxxx               0.4957
+  2      rheometer            0.4825
+  3      electrical           0.4784
+  4      mech                 0.4762
+  5      owncloud             0.4751
+
+──────────────────────────────────────────────────
+Analogy: director : college :: HOD : ?
+  Method: vec(college) - vec(director) + vec(hod)
+──────────────────────────────────────────────────
+
+  [CBOW]
+  Rank   Predicted Word       Score
+  ────── ──────────────────── ──────────
+  1      nit                  0.4375
+  2      amrita               0.4151
+  3      departmentmechanical 0.3968
+  4      jamia                0.3887
+  5      progresswillbereported 0.3699
+
+  [Skip-gram]
+  Rank   Predicted Word       Score
+  ────── ──────────────────── ──────────
+  1      mmmut                0.4976
+  2      andrew               0.4891
+  3      midnapore            0.4888
+  4      kunjanpillai         0.4861
+  5      hardoi               0.4814

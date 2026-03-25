@@ -1,0 +1,551 @@
+============================================================
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+CORPUS STATISTICS
+=
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+Source pages scraped (HTML):        423
+Source PDFs downloaded:             40
+Total source documents:             463
+Total sentences (for Word2Vec):     14592
+Total tokens:                       344945
+Vocabulary size (unique tokens):    15616
+Avg tokens per sentence:            23.6
+
+Top 30 most frequent words:
+-
+    1. the                       13741
+    2. of                        12156
+    3. and                       10588
+    4. for                       6285
+    5. to                        6247
+    6. in                        5751
+    7. department                3505
+    8. engineering               2627
+    9. tech                      2405
+   10. jodhpur                   2386
+   11. be                        2381
+   12. by                        2288
+   13. on                        2099
+   14. is                        2071
+   15. iit                       1751
+   16. with                      1730
+   17. research                  1724
+   18. student                   1683
+   19. science                   1619
+   20. or                        1567
+   21. course                    1564
+   22. program                   1486
+   23. will                      1480
+   24. students                  1468
+   25. institute                 1410
+   26. at                        1380
+   27. as                        1367
+   28. ph                        1361
+   29. dr                        1262
+   30. degree                    1190

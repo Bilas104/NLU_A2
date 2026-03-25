@@ -1,0 +1,1392 @@
+CRAWLED SOURCES LOG
+============================================================
+
+   1. [HTML] https://iitj.ac.in
+       Tokens extracted: ~484
+
+   2. [HTML] https://iitj.ac.in/office-of-academics/en/academic-regulations
+       Tokens extracted: ~16822
+
+   3. [HTML] https://iitj.ac.in/computer-science-engineering
+       Tokens extracted: ~689
+
+   4. [HTML] https://iitj.ac.in/electrical-engineering
+       Tokens extracted: ~566
+
+   5. [HTML] https://iitj.ac.in/mathematics
+       Tokens extracted: ~618
+
+   6. [HTML] https://iitj.ac.in/physics
+       Tokens extracted: ~1169
+
+   7. [HTML] https://iitj.ac.in/chemistry
+       Tokens extracted: ~633
+
+   8. [HTML] https://iitj.ac.in/bioscience-bioengineering
+       Tokens extracted: ~626
+
+   9. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering
+       Tokens extracted: ~742
+
+  10. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/postgraduate-programs
+       Tokens extracted: ~1082
+
+  11. [HTML] https://iitj.ac.in/mathematics/en/postgraduate-programs
+       Tokens extracted: ~289
+
+  12. [HTML] https://iitj.ac.in/Physics/en/Seminars-and-Meetings?dsl=2&dslID=9c600ba9-b270-404a-8fe2-1564d796c0e0
+       Tokens extracted: ~450
+
+  13. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/placements
+       Tokens extracted: ~91
+
+  14. [HTML] https://iitj.ac.in/m/Index/main-programs?lg=en
+       Tokens extracted: ~107
+
+  15. [HTML] https://iitj.ac.in/aiot-fab-facility/en/aiot-fab-facility
+       Tokens extracted: ~624
+
+  16. [HTML] https://iitj.ac.in/computer-science-engineering/en/students-presentation
+       Tokens extracted: ~85
+
+  17. [HTML] https://iitj.ac.in/mathematics/en/Research-Highlights?dsl=2&dslID=6ab68d38-e9ee-41d8-9291-a6f8fa9868b9
+       Tokens extracted: ~274
+
+  18. [PDF] https://iitj.ac.in/PageImages/Gallery/03-2025/4_Regulation_PG_2022-onwards_20022023.pdf
+       Tokens extracted: ~5202
+
+  19. [HTML] https://iitj.ac.in/m/Index/main-infrastructure?lg=en
+       Tokens extracted: ~83
+
+  20. [HTML] https://iitj.ac.in/People?dept=Electrical-Engineering
+       Tokens extracted: ~6
+
+  21. [HTML] https://iitj.ac.in/physics/en/ongoing-projects
+       Tokens extracted: ~745
+
+  22. [HTML] https://iitj.ac.in/chemistry/en/collaborations
+       Tokens extracted: ~286
+
+  23. [HTML] https://iitj.ac.in/chemistry/en/news-and-newsletter?dsl=2&dslID=409787ad-4a87-43c7-b1b0-349726770797
+       Tokens extracted: ~158
+
+  24. [HTML] https://iitj.ac.in/main/hi/iitj
+       Tokens extracted: ~34
+
+  25. [HTML] https://iitj.ac.in/main/en/contact
+       Tokens extracted: ~127
+
+  26. [HTML] https://iitj.ac.in/computer-science-engineering/hi/computer-science-and-engineering
+       Tokens extracted: ~38
+
+  27. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/Research-Highlights?dsl=2&dslID=cbd3d3b1-f6dc-4b48-b341-9868f36b61fe
+       Tokens extracted: ~130
+
+  28. [HTML] https://iitj.ac.in/computer-science-engineering/en/research-area-labs
+       Tokens extracted: ~111
+
+  29. [HTML] https://iitj.ac.in/physics/en/research-groups
+       Tokens extracted: ~155
+
+  30. [HTML] https://iitj.ac.in/mathematics/en/latest-events?dsl=2&dslID=0a76c603-f0bd-4473-9508-c5e1ad407a78
+       Tokens extracted: ~428
+
+  31. [HTML] http://intra.iitj.ac.in:8080/LectureHall
+       Tokens extracted: ~28
+
+  32. [HTML] https://iitj.ac.in/bioscience-bioengineering/hi/bioscience-bioengineering
+       Tokens extracted: ~226
+
+  33. [HTML] https://iitj.ac.in/m/Index/civil-and-infrastructure-engineering-programs?lg=en
+       Tokens extracted: ~81
+
+  34. [HTML] https://iitj.ac.in/chemistry/en/completed-projects
+       Tokens extracted: ~1800
+
+  35. [PDF] https://iitj.ac.in/PageImages/Gallery/12-2025/IITJ PGD DE - Brochure_01dec2025.pdf
+       Tokens extracted: ~1414
+
+  36. [HTML] https://iitj.ac.in/office-of-academics/en/m.tech.
+       Tokens extracted: ~228
+
+  37. [HTML] https://iitj.ac.in/electrical-engineering/en/calender
+       Tokens extracted: ~78
+
+  38. [PDF] https://iitj.ac.in/PageImages/Gallery/12-2025/IITJ PGD AI - Brochure_01dec2025.pdf
+       Tokens extracted: ~2352
+
+  39. [HTML] https://www.iitj.ac.in/institute-repository/en/nirf
+       Tokens extracted: ~352
+
+  40. [HTML] https://iitj.ac.in/electrical-engineering/en/News-Newsletter?dsl=2&dslID=df2f95a0-8d6e-4167-ae72-460e4e7af21c
+       Tokens extracted: ~105
+
+  41. [HTML] https://iitj.ac.in/Civil-and-Infrastructure-Engineering/en/Seminars-and-Meetings?dsl=2&dslID=adaf9b81-0fac-44da-b0c9-a1e34cdc1ac6
+       Tokens extracted: ~141
+
+  42. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/structural-engineering
+       Tokens extracted: ~1134
+
+  43. [HTML] https://iitj.ac.in/computer-science-engineering/en/projects
+       Tokens extracted: ~2265
+
+  44. [HTML] https://iitj.ac.in/office-of-academics/en/engineering-science
+       Tokens extracted: ~2590
+
+  45. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/teams
+       Tokens extracted: ~105
+
+  46. [HTML] https://iitj.ac.in/People?dept=Mathematics
+       Tokens extracted: ~5
+
+  47. [HTML] https://iitj.ac.in/Electrical-Engineering/en/News-Newsletter
+       Tokens extracted: ~450
+
+  48. [HTML] https://iitj.ac.in/chemistry/en/contact
+       Tokens extracted: ~105
+
+  49. [HTML] https://iitj.ac.in/mathematics/en/collaborations
+       Tokens extracted: ~179
+
+  50. [HTML] https://iitj.ac.in/m/Index/main-various offices?lg=en
+       Tokens extracted: ~208
+
+  51. [HTML] https://iitj.ac.in/chemistry/en/Latest-Events?ep=fw
+       Tokens extracted: ~113
+
+  52. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/students-presentation
+       Tokens extracted: ~85
+
+  53. [HTML] https://iitj.ac.in/m/Index/main-idrps-idrcs?lg=en
+       Tokens extracted: ~99
+
+  54. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/undergraduate-program
+       Tokens extracted: ~1153
+
+  55. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/btech-student
+       Tokens extracted: ~1334
+
+  56. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/programs-for-working-professionals
+       Tokens extracted: ~1478
+
+  57. [HTML] https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=07977274-8b86-444a-85c6-d995394649a1
+       Tokens extracted: ~357
+
+  58. [HTML] https://iitj.ac.in/m/Index/56318149-17A4-4EA3-B560-5AD984D1B8E6?lg=en
+       Tokens extracted: ~92
+
+  59. [HTML] https://iitj.ac.in/office-of-research-development/en/office-of-research-and-development
+       Tokens extracted: ~427
+
+  60. [HTML] https://iitj.ac.in/physics/en/Seminars-and-Meetings
+       Tokens extracted: ~367
+
+  61. [PDF] https://www.iitj.ac.in/PageImages/Gallery/01-2026/Detailed-curriculum-for-MTech-CSE-AY-2025-onwards-639053782130026932.pdf
+       Tokens extracted: ~373
+
+  62. [HTML] https://iitj.ac.in/mathematics/en/phd-students
+       Tokens extracted: ~2024
+
+  63. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/mous
+       Tokens extracted: ~89
+
+  64. [HTML] https://iitj.ac.in/mathematics/en/project-staff-members
+       Tokens extracted: ~141
+
+  65. [HTML] https://www.iitj.ac.in/People?dept=Computer-Science-Engineering
+       Tokens extracted: ~7
+
+  66. [HTML] https://iitj.ac.in/electrical-engineering/en/research-overview
+       Tokens extracted: ~753
+
+  67. [HTML] https://iitj.ac.in/main/en/introduction
+       Tokens extracted: ~228
+
+  68. [HTML] https://iitj.ac.in/chemistry/en/post-graduate-program
+       Tokens extracted: ~515
+
+  69. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/projects
+       Tokens extracted: ~2265
+
+  70. [HTML] https://iitj.ac.in/People?dept=Physics
+       Tokens extracted: ~5
+
+  71. [HTML] https://iitj.ac.in/physics/en/technical-staff-members
+       Tokens extracted: ~138
+
+  72. [HTML] https://iitj.ac.in/electrical-engineering/en/electrical-engineering
+       Tokens extracted: ~566
+
+  73. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/Announcement?dsl=2&dslID=cd54565d-a4d9-46f4-b990-e44d64ccb055
+       Tokens extracted: ~117
+
+  74. [PDF] https://iitj.ac.in/PageImages/Gallery/07-2025/Curriculum-MTechMTech-PhDPhD-CSEAY2020.pdf
+       Tokens extracted: ~617
+
+  75. [HTML] https://iitj.ac.in/computer-science-engineering/en/phd-students
+       Tokens extracted: ~3353
+
+  76. [HTML] https://iitj.ac.in/mathematics/en/Announcement-Page?dsl=2&dslID=ac11eb93-3e20-4bf1-8507-2c8de5557975
+       Tokens extracted: ~102
+
+  77. [PDF] https://iitj.ac.in/PageImages/Gallery/03-2025/1_Academic_Regulations_Final_03_09_2019.pdf
+       Tokens extracted: ~14272
+
+  78. [HTML] https://iitj.ac.in/computer-science-engineering/en/compute-resources
+       Tokens extracted: ~453
+
+  79. [PDF] https://iitj.ac.in/PageImages/Gallery/03-2025/6_2024-04-17-661f605b54457-1713332315.pdf
+       Tokens extracted: ~1543
+
+  80. [HTML] https://www.iitj.ac.in/Computer-Science-Engineering/en/Research-Area-Labs
+       Tokens extracted: ~111
+
+  81. [HTML] https://www.iitj.ac.in/electrical-engineering/en/Research-Highlights?dsl=2&dslID=fdf273ff-7aba-4b31-a972-27572962f5f3
+       Tokens extracted: ~130
+
+  82. [HTML] https://iitj.ac.in/physics/en/faculty-members
+       Tokens extracted: ~276
+
+  83. [HTML] https://iitj.ac.in/mathematics/en/post-doctoral-fellows
+       Tokens extracted: ~136
+
+  84. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/computer-science-and-engineering
+       Tokens extracted: ~689
+
+  85. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/Seminars-and-Meetings
+       Tokens extracted: ~190
+
+  86. [HTML] https://iitj.ac.in/laboratories
+       Tokens extracted: ~9
+
+  87. [HTML] https://iitj.ac.in/main/en/scholars-in-residence
+       Tokens extracted: ~216
+
+  88. [HTML] https://iitj.ac.in/main/en/news?dsl=2&dslID=e0f79fba-e306-49c8-9f2a-0df29de67bc1
+       Tokens extracted: ~141
+
+  89. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/hi/civil-and-infrastructure-engineering
+       Tokens extracted: ~19
+
+  90. [PDF] https://iitj.ac.in/PageImages/Gallery/03-2025/Civil-Department-Brochure-638768569230798671.pdf
+       Tokens extracted: ~1136
+
+  91. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/faculty
+       Tokens extracted: ~882
+
+  92. [HTML] https://iitj.ac.in/physics/en/undergraduate-program
+       Tokens extracted: ~1607
+
+  93. [HTML] https://iitj.ac.in/main/en/iitj
+       Tokens extracted: ~484
+
+  94. [HTML] https://iitj.ac.in/Recruitment/AdvNum?type=3052
+       Tokens extracted: ~131
+
+  95. [HTML] https://www.iitj.ac.in/computer-science-engineering/hi/postgraduate-programs
+       Tokens extracted: ~37
+
+  96. [HTML] https://iitj.ac.in/main/en/news
+       Tokens extracted: ~520
+
+  97. [HTML] https://iitj.ac.in/school-of-artificial-intelligence-data-science/en/Events?dsl=2&dslID=6bda9606-7644-4a40-b10c-fe0c914f4b3d
+       Tokens extracted: ~117
+
+  98. [HTML] https://iitj.ac.in/office-of-academics/en/mba
+       Tokens extracted: ~122
+
+  99. [HTML] https://www.iitj.ac.in/m/Index/schools-master%20of%20business%20administration?lg=en
+       Tokens extracted: ~94
+
+ 100. [HTML] https://iitj.ac.in/m/Index/main-schools?lg=en
+       Tokens extracted: ~94
+
+ 101. [HTML] http://swc.iitj.ac.in
+       Tokens extracted: ~283
+
+ 102. [PDF] https://iitj.ac.in/PageImages/Gallery/03-2025/amend_notification_26102020.pdf
+       Tokens extracted: ~106
+
+ 103. [HTML] https://iitj.ac.in/computer-science-engineering/en/webinars
+       Tokens extracted: ~156
+
+ 104. [HTML] https://iitj.ac.in/mathematics/hi/postgraduate-programs
+       Tokens extracted: ~6
+
+ 105. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/completed-projects
+       Tokens extracted: ~378
+
+ 106. [HTML] https://www.iitj.ac.in/admission-postgraduate-programs/en/msc-computational-social-science
+       Tokens extracted: ~192
+
+ 107. [HTML] https://iitj.ac.in/physics/en/completed-projects
+       Tokens extracted: ~557
+
+ 108. [HTML] https://iitj.ac.in/winter-school/en/Winter-School
+       Tokens extracted: ~265
+
+ 109. [HTML] https://iitj.ac.in/mathematics/en/technical-staff-members
+       Tokens extracted: ~140
+
+ 110. [HTML] https://iitj.ac.in/chemistry/en/regulations
+       Tokens extracted: ~287
+
+ 111. [HTML] https://www.iitj.ac.in/main/en/web-policy
+       Tokens extracted: ~3581
+
+ 112. [HTML] https://iitj.ac.in/office-of-academics/en/m.sc.
+       Tokens extracted: ~128
+
+ 113. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/technical-staff-members
+       Tokens extracted: ~188
+
+ 114. [PDF] https://iitj.ac.in/PageImages/Gallery/04-2025/physics-phd-shortlisting-202526sem1-638811872635972082.pdf
+       Tokens extracted: ~78
+
+ 115. [HTML] https://www.iitj.ac.in/admission-postgraduate-programs/en/list-of-provisionally-selected-candidates
+       Tokens extracted: ~258
+
+ 116. [HTML] https://iitj.ac.in/admission-postgraduate-programs/en/list-of-provisionally-selected-candidates
+       Tokens extracted: ~258
+
+ 117. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/Research-Highlights?dsl=2&dslID=ceb31d0c-cde2-4a08-b93b-a7d35b3874f0
+       Tokens extracted: ~255
+
+ 118. [HTML] https://iitj.ac.in/feedback
+       Tokens extracted: ~70
+
+ 119. [HTML] https://iitj.ac.in/physics/en/Research-Highlights
+       Tokens extracted: ~423
+
+ 120. [HTML] https://iitj.ac.in/admission-postgraduate-programs/en/advertisements
+       Tokens extracted: ~198
+
+ 121. [HTML] https://iitj.ac.in/computer-science-engineering/en/teams
+       Tokens extracted: ~105
+
+ 122. [HTML] https://iitj.ac.in/Civil-and-Infrastructure-Engineering/en/Seminars-and-Meetings?dsl=2&dslID=9ab58107-4711-4e0e-a539-b02160dda0bc
+       Tokens extracted: ~123
+
+ 123. [HTML] https://iitj.ac.in/electrical-engineering/en/events-and-activities
+       Tokens extracted: ~332
+
+ 124. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/Events
+       Tokens extracted: ~144
+
+ 125. [HTML] https://iitj.ac.in/computer-science-engineering/en/undergraduate-programs
+       Tokens extracted: ~578
+
+ 126. [HTML] https://iitj.ac.in/computer-science-engineering/en/students
+       Tokens extracted: ~316
+
+ 127. [HTML] https://iitj.ac.in/Main/en/Help
+       Tokens extracted: ~283
+
+ 128. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/mtech-phd-student
+       Tokens extracted: ~358
+
+ 129. [PDF] https://iitj.ac.in/PageImages/Gallery/03-2025/3_Academic_Regulations_Final_03_09_2019.pdf
+       Tokens extracted: ~14272
+
+ 130. [HTML] https://old.iitj.ac.in/uploaded_docs/IITJ%20at%20a%20Glance%20Brochure%20Hindi%202024
+       Tokens extracted: ~5
+
+ 131. [HTML] https://iitj.ac.in/anti-sexual-harassment-policy/en/anti-sexual-harassment-policy
+       Tokens extracted: ~219
+
+ 132. [HTML] https://iitj.ac.in/es/en/engineering-science
+       Tokens extracted: ~516
+
+ 133. [HTML] https://iitj.ac.in/main/en/Help
+       Tokens extracted: ~283
+
+ 134. [HTML] https://iitj.ac.in/m/Index/schools-master%20of%20business%20administration?lg=en
+       Tokens extracted: ~94
+
+ 135. [HTML] https://iitj.ac.in/physics/en/physics
+       Tokens extracted: ~1169
+
+ 136. [HTML] https://iitj.ac.in/office-of-administration/en/office-of-administration
+       Tokens extracted: ~546
+
+ 137. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/sponsors-collaborators
+       Tokens extracted: ~500
+
+ 138. [HTML] https://iitj.ac.in/mathematics/en/program-structure
+       Tokens extracted: ~177
+
+ 139. [PDF] https://www.iitj.ac.in/PageImages/Gallery/01-2026/Detailed-curriculum-for-MTech-AI-AY-2025-onwards-639053782336374627.pdf
+       Tokens extracted: ~374
+
+ 140. [HTML] https://iitj.ac.in/physics/en/laboratories
+       Tokens extracted: ~791
+
+ 141. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/mtech-student
+       Tokens extracted: ~896
+
+ 142. [HTML] https://www.iitj.ac.in/Search?lg=en
+       Tokens extracted: ~78
+
+ 143. [HTML] https://iitj.ac.in/computer-science-engineering/en/alumni
+       Tokens extracted: ~79
+
+ 144. [HTML] https://iitj.ac.in/mathematics/en/courses
+       Tokens extracted: ~215
+
+ 145. [HTML] https://iitj.ac.in/People?dept=Chemistry
+       Tokens extracted: ~5
+
+ 146. [HTML] https://www.iitj.ac.in/main/en/important-links
+       Tokens extracted: ~150
+
+ 147. [HTML] https://iitj.ac.in/office-of-academics/en/collaborations
+       Tokens extracted: ~104
+
+ 148. [HTML] https://iitj.ac.in/People?dept=Office-of-Academics
+       Tokens extracted: ~8
+
+ 149. [HTML] https://iitj.ac.in/physics/en/courses
+       Tokens extracted: ~129
+
+ 150. [PDF] https://iitj.ac.in/PageImages/Gallery/07-2025/chemistry-flyer-638888044128502743.pdf
+       Tokens extracted: ~189
+
+ 151. [HTML] https://www.iitj.ac.in/main/en/web-information-manager
+       Tokens extracted: ~123
+
+ 152. [HTML] https://spc.iitj.ac.in
+       Tokens extracted: ~7
+
+ 153. [PDF] https://iitj.ac.in/PageImages/Gallery/07-2025/CSE-Courses-Details.pdf
+       Tokens extracted: ~29683
+
+ 154. [HTML] https://www.iitj.ac.in/main/en/contact
+       Tokens extracted: ~127
+
+ 155. [HTML] https://iitj.ac.in/office-of-academics/en/b.tech.
+       Tokens extracted: ~162
+
+ 156. [HTML] https://iitj.ac.in/chemistry/en/chemmeet-2024
+       Tokens extracted: ~174
+
+ 157. [HTML] https://iitj.ac.in/m/Index/main-outreach?lg=en
+       Tokens extracted: ~104
+
+ 158. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/research-area-labs
+       Tokens extracted: ~111
+
+ 159. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/post-doctoral-fellows
+       Tokens extracted: ~121
+
+ 160. [HTML] https://iitj.ac.in/office-of-academics/en/specialization-minor-dual-degree
+       Tokens extracted: ~1707
+
+ 161. [HTML] https://iitj.ac.in/electrical-engineering/en/Research-Highlights
+       Tokens extracted: ~277
+
+ 162. [HTML] https://iitj.ac.in/computer-science-engineering/en/student-achievements
+       Tokens extracted: ~602
+
+ 163. [HTML] https://iitj.ac.in/People/List?dept=Physics&c=1c8346b0-07a4-401e-bce0-7f571bb4fabd
+       Tokens extracted: ~5
+
+ 164. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/about-research
+       Tokens extracted: ~88
+
+ 165. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/department-data
+       Tokens extracted: ~92
+
+ 166. [HTML] https://iitj.ac.in/computer-science-engineering/en/faculty
+       Tokens extracted: ~882
+
+ 167. [HTML] https://www.iitj.ac.in/main/en/recruitments
+       Tokens extracted: ~93
+
+ 168. [HTML] https://iitj.ac.in/Physics/en/Research-Highlights?dsl=2&dslID=5419547a-12ba-44ab-baaa-3fa643ac823f
+       Tokens extracted: ~154
+
+ 169. [HTML] https://iitj.ac.in/computer-science-engineering/en/Research-Archive
+       Tokens extracted: ~4071
+
+ 170. [HTML] https://iitj.ac.in/physics/hi/physics
+       Tokens extracted: ~33
+
+ 171. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/faculty-achievements
+       Tokens extracted: ~705
+
+ 172. [HTML] https://old.iitj.ac.in/techscape/IITJ%20at%20a%20Glance_%20English_2024
+       Tokens extracted: ~2
+
+ 173. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/transportation-engineering
+       Tokens extracted: ~248
+
+ 174. [HTML] https://iitj.ac.in/main/en/news?dsl=2&dslID=e68ae573-7d7e-4f5f-bf35-e3c801ac5f60
+       Tokens extracted: ~160
+
+ 175. [HTML] https://iitj.ac.in/main/en/faqs-applicants
+       Tokens extracted: ~134
+
+ 176. [PDF] https://iitj.ac.in/PageImages/Gallery/11-2025/Corrigendumdeadlineextended-638980302467849511.pdf
+       Tokens extracted: ~76
+
+ 177. [PDF] https://iitj.ac.in/PageImages/Gallery/02-2025/Event-1-VLSI-Test-Workshop-638763554117393130.pdf
+       Tokens extracted: ~287
+
+ 178. [HTML] https://iitj.ac.in/electrical-engineering/en/collaborations
+       Tokens extracted: ~1054
+
+ 179. [PDF] https://iitj.ac.in/PageImages/Gallery/07-2025/Curriculum-MTechMTech-PhDPhD-CSEAY2021Onwards.pdf
+       Tokens extracted: ~810
+
+ 180. [HTML] https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=46ebd116-a312-4649-af46-ba507a6f9b33
+       Tokens extracted: ~397
+
+ 181. [HTML] https://iitj.ac.in/electrical-engineering/en/Research-Highlights?dsl=2&dslID=b2edd69b-19f5-4ac8-ab29-e62467c56e62
+       Tokens extracted: ~222
+
+ 182. [HTML] https://www.iitj.ac.in/dia/en/dia
+       Tokens extracted: ~268
+
+ 183. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/News-and-Newsletter?dsl=2&dslID=f76677c2-1299-46bb-913c-a59a1d1cb678
+       Tokens extracted: ~118
+
+ 184. [HTML] https://iitj.ac.in/main/en/admission-links
+       Tokens extracted: ~116
+
+ 185. [PDF] https://iitj.ac.in/PageImages/Gallery/03-2025/design-638772089948454268.pdf
+       Tokens extracted: ~384
+
+ 186. [HTML] https://www.iitj.ac.in/winter-school/en/Winter-School
+       Tokens extracted: ~265
+
+ 187. [HTML] https://iitj.ac.in/AtoZ?lg=en
+       Tokens extracted: ~8692
+
+ 188. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/project-staff-members
+       Tokens extracted: ~121
+
+ 189. [HTML] https://iitj.ac.in/People?dept=Computer-Science-Engineering
+       Tokens extracted: ~7
+
+ 190. [HTML] https://iitj.ac.in/m/Index/main-centers?lg=en
+       Tokens extracted: ~115
+
+ 191. [HTML] https://iitj.ac.in/physics/en/Research-Highlights?dsl=2&dslID=6417cf68-2288-435b-b7a3-f5e7dede10da
+       Tokens extracted: ~390
+
+ 192. [HTML] https://iitj.ac.in/chemistry/en/facilities
+       Tokens extracted: ~170
+
+ 193. [HTML] https://iitj.ac.in/People?dept=bioscience-bioengineering
+       Tokens extracted: ~6
+
+ 194. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/faculty-members
+       Tokens extracted: ~701
+
+ 195. [HTML] https://www.iitj.ac.in/office-of-stores-purchase/en/tender-details
+       Tokens extracted: ~95
+
+ 196. [HTML] https://iitj.ac.in/mathematics/en/latest-news?dsl=2&dslID=93b7a67b-0e3e-40cf-a916-61bb99b82ea7
+       Tokens extracted: ~364
+
+ 197. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/completed-projects
+       Tokens extracted: ~454
+
+ 198. [HTML] https://iitj.ac.in/office-of-executive-education/en/office-of-executive-education
+       Tokens extracted: ~459
+
+ 199. [HTML] https://iitj.ac.in/chemistry/hi/chemistry
+       Tokens extracted: ~37
+
+ 200. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/postgraduate-program
+       Tokens extracted: ~747
+
+ 201. [HTML] https://iitj.ac.in/Physics/en/Research-Highlights?dsl=2&dslID=92df13bb-c954-4291-ba81-d79b828d3b3c
+       Tokens extracted: ~259
+
+ 202. [HTML] https://old.iitj.ac.in
+       Tokens extracted: ~658
+
+ 203. [HTML] https://iitj.ac.in/main/en/faculty-members
+       Tokens extracted: ~204
+
+ 204. [HTML] https://iitj.ac.in/computer-science-engineering/en/doctoral-programs
+       Tokens extracted: ~1181
+
+ 205. [PDF] https://iitj.ac.in/PageImages/Gallery/03-2025/2_Academic_Regulations_Final_03_09_2019.pdf
+       Tokens extracted: ~14272
+
+ 206. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/Research-Highlights?dsl=2&dslID=75a8801c-10f6-4473-9cd8-9feeedc2f600
+       Tokens extracted: ~121
+
+ 207. [HTML] https://iitj.ac.in/office-of-academics/en/bs
+       Tokens extracted: ~109
+
+ 208. [HTML] https://iitj.ac.in/electrical-engineering/en/faculty-members
+       Tokens extracted: ~218
+
+ 209. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/collaborations
+       Tokens extracted: ~479
+
+ 210. [HTML] https://iitj.ac.in/electrical-engineering/en/laboratories
+       Tokens extracted: ~93
+
+ 211. [HTML] https://iitj.ac.in/electrical-engineering/en/undergraduate-program
+       Tokens extracted: ~1293
+
+ 212. [HTML] https://iitj.ac.in/computer-science-engineering/en/Annoncement-Archive
+       Tokens extracted: ~873
+
+ 213. [HTML] https://iitj.ac.in/office-of-deputy-director/en/office-of-deputy-director
+       Tokens extracted: ~133
+
+ 214. [HTML] https://iitj.ac.in/electrical-engineering/en/postgraduate-program
+       Tokens extracted: ~165
+
+ 215. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/faculty-members
+       Tokens extracted: ~316
+
+ 216. [PDF] https://iitj.ac.in/PageImages/Gallery/03-2025/BSBE-Lecture-Series-Dr-G-Arunkumar--638772085269047407.pdf
+       Tokens extracted: ~132
+
+ 217. [HTML] https://iitj.ac.in/chemistry/en/about-research
+       Tokens extracted: ~245
+
+ 218. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/iit-jodhpur-industry-connect-2022
+       Tokens extracted: ~786
+
+ 219. [HTML] https://iitj.ac.in/computer-science-engineering/en/placements
+       Tokens extracted: ~91
+
+ 220. [HTML] https://iitj.ac.in/electrical-engineering/en/post-doctoral-fellows
+       Tokens extracted: ~137
+
+ 221. [HTML] https://erponline.iitj.ac.in/exapp/auth/apps.htm
+       Tokens extracted: ~79
+
+ 222. [HTML] https://iitj.ac.in/office-of-academics/en/ph.d.
+       Tokens extracted: ~309
+
+ 223. [HTML] https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=0c0e3376-5057-4848-940c-68e16aa25d1e
+       Tokens extracted: ~258
+
+ 224. [HTML] https://iitj.ac.in/chemistry/en/news-and-newsletter?dsl=2&dslID=5a8fc08a-cfcf-4477-b858-f0d750bdfa08
+       Tokens extracted: ~141
+
+ 225. [HTML] https://iitj.ac.in/mathematics/en/ongoing-projects
+       Tokens extracted: ~529
+
+ 226. [HTML] https://iitj.ac.in/rti
+       Tokens extracted: ~109
+
+ 227. [HTML] https://iitj.ac.in/physics/en/regulations
+       Tokens extracted: ~103
+
+ 228. [HTML] https://iitj.ac.in/chemistry/en/chemistry
+       Tokens extracted: ~633
+
+ 229. [HTML] https://iitj.ac.in/Chemistry/en/News-and-Newsletter
+       Tokens extracted: ~511
+
+ 230. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/courses
+       Tokens extracted: ~218
+
+ 231. [HTML] https://iitj.ac.in/m/Index/main-statutory bodies?lg=en
+       Tokens extracted: ~92
+
+ 232. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/journal-publications
+       Tokens extracted: ~92
+
+ 233. [HTML] https://iitj.ac.in/admission-postgraduate-programs/en/Admission-to-Postgraduate-Programs
+       Tokens extracted: ~322
+
+ 234. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/Research-Highlights
+       Tokens extracted: ~560
+
+ 235. [HTML] https://www.iitj.ac.in/Institute-Repository/en/Institute-Repository
+       Tokens extracted: ~98
+
+ 236. [HTML] https://iitj.ac.in/office-of-students/en/campus-life
+       Tokens extracted: ~275
+
+ 237. [HTML] https://iitj.ac.in/mathematics/en/undergraduate-programs
+       Tokens extracted: ~375
+
+ 238. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/Announcement?dsl=2&dslID=cf48781f-7432-452c-a895-fc497f56923e
+       Tokens extracted: ~122
+
+ 239. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/collaborations
+       Tokens extracted: ~207
+
+ 240. [HTML] https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=d747bac3-a0bd-4a6a-8843-6d33e721b331
+       Tokens extracted: ~560
+
+ 241. [HTML] https://iitj.ac.in/physics/en/postgraduate-program
+       Tokens extracted: ~1306
+
+ 242. [HTML] https://iitj.ac.in/office-of-academics/en/list-of-academic-programs
+       Tokens extracted: ~931
+
+ 243. [HTML] https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=3647aa9a-ea25-41e5-9bc4-4f491beb5f4d
+       Tokens extracted: ~539
+
+ 244. [HTML] https://alumni.iitj.ac.in
+       Tokens extracted: ~4
+
+ 245. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/students
+       Tokens extracted: ~316
+
+ 246. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/Research-Highlights?dsl=2&dslID=4615e654-71de-4182-a0a7-3d5afe0991b1
+       Tokens extracted: ~146
+
+ 247. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/regulations
+       Tokens extracted: ~110
+
+ 248. [HTML] https://iitj.ac.in/main/en/how-to-reach-iit-jodhpur
+       Tokens extracted: ~369
+
+ 249. [HTML] https://iitj.ac.in/m/Index/civil-and-infrastructure-engineering-academic calendar?lg=en
+       Tokens extracted: ~76
+
+ 250. [HTML] https://iitj.ac.in/Civil-and-Infrastructure-Engineering/en/Research-Highlights?dsl=2&dslID=2a109a32-01bd-4846-a993-cca8117eabf1
+       Tokens extracted: ~364
+
+ 251. [HTML] https://iitj.ac.in/mathematics/en/Research-Highlights
+       Tokens extracted: ~2125
+
+ 252. [HTML] https://iitj.ac.in/computer-science-engineering/en/computer-science-and-engineering
+       Tokens extracted: ~689
+
+ 253. [PDF] https://iitj.ac.in/PageImages/Gallery/04-2025/Event-Prof-Rene-M-Koenigs-638809219710629600.pdf
+       Tokens extracted: ~122
+
+ 254. [HTML] https://iitj.ac.in/Physics/en/Seminars-and-Meetings?dsl=2&dslID=e4eb5e08-789d-4506-8c0a-f9eb2662f19c
+       Tokens extracted: ~527
+
+ 255. [HTML] https://iitj.ac.in/faculty-positions/en/faculty-positions
+       Tokens extracted: ~239
+
+ 256. [PDF] https://iitj.ac.in/PageImages/Gallery/03-2025/International-Conference-on-Bioengineering-Solutions-for-Healthcare-638772085474970033.pdf
+       Tokens extracted: ~49
+
+ 257. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/environmental-engineering
+       Tokens extracted: ~349
+
+ 258. [HTML] https://iitj.ac.in/office-of-registrar/en/office-of-registrar
+       Tokens extracted: ~236
+
+ 259. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/about-recruitment
+       Tokens extracted: ~420
+
+ 260. [HTML] https://iitj.ac.in/Search?lg=en
+       Tokens extracted: ~78
+
+ 261. [HTML] https://iitj.ac.in/Physics/en/Research-Highlights?dsl=2&dslID=ed54e590-492d-4aba-b2a4-f0940b0be08f
+       Tokens extracted: ~173
+
+ 262. [HTML] https://iitj.ac.in/Chemistry/en/Research-Highlights
+       Tokens extracted: ~371
+
+ 263. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/geotechnical-engineering
+       Tokens extracted: ~644
+
+ 264. [HTML] https://iitj.ac.in/mathematics/en/curriculum
+       Tokens extracted: ~327
+
+ 265. [HTML] https://www.iitj.ac.in/main/en/intranet-page
+       Tokens extracted: ~113
+
+ 266. [HTML] https://www.iitj.ac.in/correspondence
+       Tokens extracted: ~80
+
+ 267. [HTML] https://iitj.ac.in/mathematics/en/Announcement-Page?ep=fw
+       Tokens extracted: ~391
+
+ 268. [HTML] https://iitj.ac.in/Office-of-Academics/en/Download-Forms
+       Tokens extracted: ~1133
+
+ 269. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/outstanding-student-projects
+       Tokens extracted: ~648
+
+ 270. [HTML] https://iitj.ac.in/electrical-engineering/en/ongoing-projects
+       Tokens extracted: ~1720
+
+ 271. [HTML] https://iitj.ac.in/m/Index/main-key functionaries?lg=en
+       Tokens extracted: ~96
+
+ 272. [HTML] https://iitj.ac.in/main/en/all-announcement
+       Tokens extracted: ~277
+
+ 273. [HTML] https://iitj.ac.in/electrical-engineering/hi/electrical-engineering
+       Tokens extracted: ~27
+
+ 274. [HTML] https://iitj.ac.in/main/en/events?dsl=2&dslID=11101c33-1810-4d4d-a9b5-1bcc488ef6ba
+       Tokens extracted: ~192
+
+ 275. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/dissertations
+       Tokens extracted: ~89
+
+ 276. [HTML] https://iitj.ac.in/m/Index/5D625E56-DD33-4145-A885-9CF0816E0678?lg=en
+       Tokens extracted: ~84
+
+ 277. [HTML] https://iitj.ac.in/chemistry/en/curriculum
+       Tokens extracted: ~642
+
+ 278. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/bioscience-bioengineering
+       Tokens extracted: ~626
+
+ 279. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/Announcement
+       Tokens extracted: ~306
+
+ 280. [HTML] https://iitj.ac.in/Physics/en/Seminars-and-Meetings?dsl=2&dslID=8ab39186-5449-459e-bfd4-c710b4cf33a8
+       Tokens extracted: ~429
+
+ 281. [HTML] https://iitj.ac.in/main/en/research-highlight
+       Tokens extracted: ~270
+
+ 282. [HTML] https://iitj.ac.in/computer-science-engineering/en/contact
+       Tokens extracted: ~111
+
+ 283. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/geological-engineering
+       Tokens extracted: ~601
+
+ 284. [HTML] https://www.iitj.ac.in/feedback
+       Tokens extracted: ~70
+
+ 285. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/program-structure
+       Tokens extracted: ~166
+
+ 286. [HTML] https://iitj.ac.in/mathematics/en/Announcement-Page?dsl=2&dslID=7cfe7dc3-21af-4f92-99b9-72522e314b5a
+       Tokens extracted: ~109
+
+ 287. [HTML] https://iitj.ac.in/chemistry/en/ongoing-projects
+       Tokens extracted: ~4277
+
+ 288. [HTML] https://iitj.ac.in/main/en/web-policy
+       Tokens extracted: ~3581
+
+ 289. [HTML] https://www.iitj.ac.in/rti
+       Tokens extracted: ~109
+
+ 290. [HTML] https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=cc95de00-8c49-4c09-aa57-6af9581847c2
+       Tokens extracted: ~217
+
+ 291. [HTML] https://iitj.ac.in/chemistry/en/technical-staff-members
+       Tokens extracted: ~138
+
+ 292. [HTML] https://iitj.ac.in/dia/en/dia
+       Tokens extracted: ~268
+
+ 293. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/student-achievements
+       Tokens extracted: ~602
+
+ 294. [HTML] https://iitj.ac.in/correspondence
+       Tokens extracted: ~80
+
+ 295. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/alumni
+       Tokens extracted: ~79
+
+ 296. [HTML] https://iitj.ac.in/schools/en/cat-cut-offs
+       Tokens extracted: ~120
+
+ 297. [HTML] https://www.iitj.ac.in/anti-sexual-harassment-policy/en/anti-sexual-harassment-policy
+       Tokens extracted: ~219
+
+ 298. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/News-and-Newsletter?dsl=2&dslID=ec8435c9-fc6a-4f8c-8d3a-48058034954f
+       Tokens extracted: ~102
+
+ 299. [HTML] https://iitj.ac.in/Civil-and-Infrastructure-Engineering/en/Research-Highlights?dsl=2&dslID=3b12759c-c170-40ef-bf5f-10069ba4391d
+       Tokens extracted: ~329
+
+ 300. [HTML] https://iitj.ac.in/chemistry/en/courses
+       Tokens extracted: ~441
+
+ 301. [HTML] https://iitj.ac.in/m/Index/civil-and-infrastructure-engineering-prospective students?lg=en
+       Tokens extracted: ~81
+
+ 302. [HTML] https://iitj.ac.in/institute-repository/en/nirf
+       Tokens extracted: ~352
+
+ 303. [HTML] https://iitj.ac.in/mathematics/en/completed-projects
+       Tokens extracted: ~431
+
+ 304. [HTML] https://iitj.ac.in/mathematics/en/laboratories
+       Tokens extracted: ~199
+
+ 305. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/phd-students
+       Tokens extracted: ~3353
+
+ 306. [HTML] https://iitj.ac.in/electrical-engineering/en/Events-and-Activities?dsl=2&dslID=e5ce5c85-868d-4dfb-9fc9-54d2a17bc4f5
+       Tokens extracted: ~211
+
+ 307. [HTML] https://iitj.ac.in/physics/en/post-doctoral-fellows
+       Tokens extracted: ~124
+
+ 308. [PDF] https://iitj.ac.in/PageImages/Gallery/07-2025/Curriculum-MTechMTech-PhDPhD-AIAY2020.pdf
+       Tokens extracted: ~650
+
+ 309. [HTML] https://iitj.ac.in/Office-of-Academics/en/Academic-Calendar
+       Tokens extracted: ~164
+
+ 310. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/technical-staff-members
+       Tokens extracted: ~121
+
+ 311. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/alumni
+       Tokens extracted: ~82
+
+ 312. [HTML] https://iitj.ac.in/mathematics/en/contact
+       Tokens extracted: ~93
+
+ 313. [HTML] https://iitj.ac.in/chemistry/en/internal-sample
+       Tokens extracted: ~633
+
+ 314. [HTML] https://iitj.ac.in/main/en/visiting-faculty-members
+       Tokens extracted: ~194
+
+ 315. [HTML] https://iitj.ac.in/mathematics/en/faculty-members
+       Tokens extracted: ~294
+
+ 316. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/contact
+       Tokens extracted: ~106
+
+ 317. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/curriculum
+       Tokens extracted: ~132
+
+ 318. [HTML] https://iitj.ac.in/computer-science-engineering/en/sponsors-collaborators
+       Tokens extracted: ~500
+
+ 319. [PDF] https://iitj.ac.in/PageImages/Gallery/06-2025/M.Tech%20Curriculum_document-2022-07-21-12-37-pm.pdf
+       Tokens extracted: ~11820
+
+ 320. [HTML] https://iitj.ac.in/electrical-engineering/en/doctoral-program
+       Tokens extracted: ~348
+
+ 321. [HTML] https://iitj.ac.in/techscape/en/Techscape
+       Tokens extracted: ~473
+
+ 322. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/Research-Highlights?dsl=2&dslID=2b91ebbf-c028-4f24-99f9-664d652459f3
+       Tokens extracted: ~301
+
+ 323. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/compute-resources
+       Tokens extracted: ~453
+
+ 324. [HTML] https://iitj.ac.in/m/Index/main-institute?lg=en
+       Tokens extracted: ~90
+
+ 325. [HTML] https://iitj.ac.in/electrical-engineering/en/contact
+       Tokens extracted: ~102
+
+ 326. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/post-doctoral-fellows
+       Tokens extracted: ~164
+
+ 327. [HTML] https://iitj.ac.in/electrical-engineering/en/completed-projects
+       Tokens extracted: ~666
+
+ 328. [HTML] https://iitj.ac.in/office-of-academics/en/mdes
+       Tokens extracted: ~102
+
+ 329. [HTML] https://iitj.ac.in/chemistry/en/teaching-laboratories
+       Tokens extracted: ~85
+
+ 330. [PDF] https://iitj.ac.in/PageImages/Gallery/07-2025/Updated-provisionally-shortlisted-and-waitlisted-candidates-for-MTech-Admission-WOF-SS-PT-PTO-FTS-638875920712444980.pdf
+       Tokens extracted: ~300
+
+ 331. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/computational-laboratory
+       Tokens extracted: ~193
+
+ 332. [HTML] https://iitj.ac.in/People?dept=Civil-and-Infrastructure-Engineering
+       Tokens extracted: ~8
+
+ 333. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/phd-student
+       Tokens extracted: ~1438
+
+ 334. [HTML] https://iitj.ac.in/office-of-academics/en/contact
+       Tokens extracted: ~100
+
+ 335. [HTML] https://iitj.ac.in/m/Index/company-oversight?lg=en
+       Tokens extracted: ~110
+
+ 336. [HTML] https://iitj.ac.in/mathematics/hi/mathematics
+       Tokens extracted: ~21
+
+ 337. [HTML] https://iitj.ac.in/mathematics/en/latest-events?dsl=2&dslID=bc80d343-5618-44ea-8373-3de79f652aad
+       Tokens extracted: ~257
+
+ 338. [HTML] https://iitj.ac.in/chemistry/en/news-and-newsletter?dsl=2&dslID=295d72c0-2073-44be-8f04-d06ab79ac788
+       Tokens extracted: ~139
+
+ 339. [HTML] https://iitj.ac.in/physics/en/doctoral-program
+       Tokens extracted: ~387
+
+ 340. [HTML] https://iitj.ac.in/crf/en/crf
+       Tokens extracted: ~360
+
+ 341. [HTML] https://iitj.ac.in/physics/en/program-structure
+       Tokens extracted: ~127
+
+ 342. [HTML] https://iitj.ac.in/mathematics/en/m.sc.
+       Tokens extracted: ~793
+
+ 343. [HTML] https://library.iitj.ac.in
+       Tokens extracted: ~398
+
+ 344. [HTML] https://iitj.ac.in/computer-science-engineering/en/outstanding-student-projects
+       Tokens extracted: ~648
+
+ 345. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/researchers
+       Tokens extracted: ~106
+
+ 346. [HTML] https://iitj.ac.in/mathematics/en/latest-events?dsl=2&dslID=4002d61e-4996-4124-bcf6-56e093adf072
+       Tokens extracted: ~336
+
+ 347. [HTML] https://www.iitj.ac.in/AtoZ?lg=en
+       Tokens extracted: ~8692
+
+ 348. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/doctorial-program
+       Tokens extracted: ~606
+
+ 349. [HTML] https://iitj.ac.in/office-of-academics/hi/Academic-Regulations
+       Tokens extracted: ~16734
+
+ 350. [HTML] https://www.iitj.ac.in/grad-cohort-workshop/en/Grad-Cohort-Workshop
+       Tokens extracted: ~292
+
+ 351. [HTML] https://iitj.ac.in/main/en/intranet-page
+       Tokens extracted: ~113
+
+ 352. [PDF] https://iitj.ac.in/PageImages/Gallery/02-2025/COURSE-TYPE-FOR-ONLINE-REGISTRATION-OF-MSC-PROGRAM-638757479750116958.pdf
+       Tokens extracted: ~41
+
+ 353. [PDF] https://iitj.ac.in/PageImages/RecruitmentAdvertisementMaster/12-2025/Extension-Notice-1-639008984239214006.pdf
+       Tokens extracted: ~115
+
+ 354. [HTML] https://iitj.ac.in/chemistry/en/faculty-members
+       Tokens extracted: ~272
+
+ 355. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/News-and-Newsletter?dsl=2&dslID=669c8940-b3cf-4ef5-a033-6adcf919fb9f
+       Tokens extracted: ~88
+
+ 356. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/webinars
+       Tokens extracted: ~156
+
+ 357. [HTML] https://iitj.ac.in/electrical-engineering/en/News-Newsletter?dsl=2&dslID=c1dabca8-6870-4104-a18c-26251fd677da
+       Tokens extracted: ~130
+
+ 358. [HTML] https://iitj.ac.in/health-center/en/health-center
+       Tokens extracted: ~652
+
+ 359. [PDF] https://iitj.ac.in/PageImages/Gallery/06-2025/PhDAdmissionsJuly2025Physics-638855389885318731.pdf
+       Tokens extracted: ~31
+
+ 360. [HTML] https://iitj.ac.in/office-of-director/en/office-of-director
+       Tokens extracted: ~463
+
+ 361. [PDF] https://iitj.ac.in/PageImages/Gallery/03-2025/5_Circular_IITJ_OA_C_2021-22_21_122_20.01.2022.pdf
+       Tokens extracted: ~886
+
+ 362. [PDF] https://iitj.ac.in/PageImages/Gallery/02-2025/event-3-pdf-638760799857014577.pdf
+       Tokens extracted: ~121
+
+ 363. [HTML] https://iitj.ac.in/office-of-corporate-relations/en/Donate
+       Tokens extracted: ~373
+
+ 364. [HTML] https://iitj.ac.in/m/Index/main-departments?lg=en
+       Tokens extracted: ~96
+
+ 365. [HTML] https://iitj.ac.in/physics/en/project-staff-members
+       Tokens extracted: ~146
+
+ 366. [HTML] https://iitj.ac.in/electrical-engineering/en/Research-Highlights?dsl=2&dslID=45070ea5-4bdc-4e1f-a594-bb7c6cafa195
+       Tokens extracted: ~127
+
+ 367. [HTML] https://iitj.ac.in/computer-science-engineering/en/News-Events
+       Tokens extracted: ~92
+
+ 368. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/ongoing-projects
+       Tokens extracted: ~459
+
+ 369. [HTML] https://iitj.ac.in/mathematics/en/our-alumni
+       Tokens extracted: ~2514
+
+ 370. [HTML] https://iitj.ac.in/main/en/web-information-manager
+       Tokens extracted: ~123
+
+ 371. [HTML] https://iitj.ac.in/grad-cohort-workshop/en/Grad-Cohort-Workshop
+       Tokens extracted: ~292
+
+ 372. [HTML] https://iitj.ac.in/chemistry/en/faculty-list
+       Tokens extracted: ~1025
+
+ 373. [HTML] https://iitj.ac.in/chemistry/en/program-structure
+       Tokens extracted: ~93
+
+ 374. [HTML] https://iitj.ac.in/main/en/events
+       Tokens extracted: ~322
+
+ 375. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/project-staff-members
+       Tokens extracted: ~192
+
+ 376. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/contact
+       Tokens extracted: ~96
+
+ 377. [HTML] https://iitj.ac.in/office-of-stores-purchase/en/tender-details
+       Tokens extracted: ~95
+
+ 378. [HTML] https://iitj.ac.in/office-of-academics/en/discontinued-program
+       Tokens extracted: ~540
+
+ 379. [HTML] https://iitj.ac.in/computer-science-engineering/en/researchers
+       Tokens extracted: ~106
+
+ 380. [HTML] https://iitj.ac.in/Physics/en/Seminars-and-Meetings?dsl=2&dslID=6b3e07aa-38f0-4616-ac67-1a05e2e6fdec
+       Tokens extracted: ~370
+
+ 381. [HTML] https://iitj.ac.in/Physics/en/Seminars-and-Meetings?dsl=2&dslID=47f61299-11c1-48f0-99da-c561c965b00b
+       Tokens extracted: ~299
+
+ 382. [PDF] https://iitj.ac.in/PageImages/Gallery/12-2025/IITJ BSc - Brochure_01dec2025.pdf
+       Tokens extracted: ~726
+
+ 383. [HTML] https://iitj.ac.in/main/en/recruitments
+       Tokens extracted: ~93
+
+ 384. [PDF] https://iitj.ac.in/PageImages/Gallery/03-2025/2.1_notification_26102020.pdf
+       Tokens extracted: ~106
+
+ 385. [HTML] https://iitj.ac.in/physics/en/Latest-News
+       Tokens extracted: ~211
+
+ 386. [HTML] https://iitj.ac.in/chemistry/en/post-doctoral-fellows
+       Tokens extracted: ~251
+
+ 387. [PDF] https://iitj.ac.in/PageImages/Gallery/12-2024/Seminar-1-638701329113200322.pdf
+       Tokens extracted: ~33
+
+ 388. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/undergraduate-programs
+       Tokens extracted: ~578
+
+ 389. [HTML] https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=03e7f723-69e1-4081-af9b-ea02c21585ff
+       Tokens extracted: ~260
+
+ 390. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/contact
+       Tokens extracted: ~111
+
+ 391. [PDF] https://iitj.ac.in/PageImages/Gallery/03-2025/3.1_notification_26102020.pdf
+       Tokens extracted: ~106
+
+ 392. [HTML] https://iitj.ac.in/office-of-academics/en/m.sc.-m.tech.
+       Tokens extracted: ~117
+
+ 393. [HTML] https://iitj.ac.in/Recruitment
+       Tokens extracted: ~2
+
+ 394. [HTML] https://iitj.ac.in/main/en/administrative-contact
+       Tokens extracted: ~309
+
+ 395. [HTML] https://iitj.ac.in/Institute-Repository/en/Institute-Repository
+       Tokens extracted: ~98
+
+ 396. [HTML] https://iitj.ac.in/main/en/important-links
+       Tokens extracted: ~150
+
+ 397. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/Research-Highlights?dsl=2&dslID=1c576f0b-3fdc-46d8-9753-fae2e38a61a8
+       Tokens extracted: ~302
+
+ 398. [HTML] https://iitj.ac.in/main/en/adjunct-faculty-members
+       Tokens extracted: ~198
+
+ 399. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/News-and-Newsletter
+       Tokens extracted: ~365
+
+ 400. [HTML] https://iitj.ac.in/admission-postgraduate-programs/en/Rolling-advertisement-for-Admission-to-Interdisciplinary-and-Ph.D.-Programmes?ep=fw
+       Tokens extracted: ~208
+
+ 401. [PDF] https://iitj.ac.in/PageImages/Gallery/06-2025/ResultList-of-provisionally-shortlisted-candidates-for-PhD-Admisison-July-2025-638860401643744652.pdf
+       Tokens extracted: ~31
+
+ 402. [PDF] https://iitj.ac.in/PageImages/Gallery/08-2025/Cutoff-638919930743639412.pdf
+       Tokens extracted: ~307
+
+ 403. [HTML] https://iitj.ac.in/mathematics/en/Research-Highlights?dsl=2&dslID=7c2955af-4e48-4dfa-8d25-1e658fa68ec5
+       Tokens extracted: ~126
+
+ 404. [HTML] https://www.iitj.ac.in/computer-science-engineering/en/doctoral-programs
+       Tokens extracted: ~1181
+
+ 405. [HTML] https://iitj.ac.in/Physics/en/Research-Highlights?dsl=2&dslID=a5ac8425-631a-406b-94b8-852389a2319b
+       Tokens extracted: ~154
+
+ 406. [HTML] https://iitj.ac.in/main/en/chairman
+       Tokens extracted: ~576
+
+ 407. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/research-project
+       Tokens extracted: ~92
+
+ 408. [HTML] https://iitj.ac.in/computer-science-engineering/en/Faculty
+       Tokens extracted: ~882
+
+ 409. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/ongoing-projects
+       Tokens extracted: ~1413
+
+ 410. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/patents
+       Tokens extracted: ~89
+
+ 411. [HTML] https://iitj.ac.in/mathematics/en/mathematics
+       Tokens extracted: ~618
+
+ 412. [HTML] https://iitj.ac.in/main/en/director
+       Tokens extracted: ~687
+
+ 413. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/Announcement?dsl=2&dslID=6cba3b22-8041-46ea-bc6a-174e4adc49b4
+       Tokens extracted: ~115
+
+ 414. [HTML] https://iitj.ac.in/mathematics/en/regulations
+       Tokens extracted: ~251
+
+ 415. [HTML] https://iitj.ac.in/computer-science-engineering/en/postgraduate-programs
+       Tokens extracted: ~1082
+
+ 416. [HTML] https://iitj.ac.in/chemistry/en/seminar
+       Tokens extracted: ~324
+
+ 417. [HTML] https://iitj.ac.in/main/en/events?dsl=2&dslID=651de5e6-905b-416b-95d8-9d221f39a4e5
+       Tokens extracted: ~212
+
+ 418. [HTML] https://www.iitj.ac.in/office-of-corporate-relations/en/Donate
+       Tokens extracted: ~373
+
+ 419. [HTML] http://iitj.ac.in/academics/index.php?id=acad_program&&prog=34
+       Tokens extracted: ~9
+
+ 420. [HTML] https://iitj.ac.in/chemistry/en/doctoral-program
+       Tokens extracted: ~504
+
+ 421. [HTML] https://iitj.ac.in/main/en/events?dsl=2&dslID=74ebb42f-9e61-47e6-bd93-defceeaa5e71
+       Tokens extracted: ~87
+
+ 422. [HTML] https://www.iitj.ac.in
+       Tokens extracted: ~484
+
+ 423. [HTML] https://iitj.ac.in/computer-science-engineering/en/programs-for-working-professionals
+       Tokens extracted: ~1478
+
+ 424. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/civil-and-infrastructure-engineering
+       Tokens extracted: ~742
+
+ 425. [HTML] https://iitj.ac.in/physics/en/contact
+       Tokens extracted: ~105
+
+ 426. [PDF] https://iitj.ac.in/PageImages/Gallery/10-2025/shorlistedforinterviewcivilPhDcandidatesAY20252026semII-638971805472230955.pdf
+       Tokens extracted: ~36
+
+ 427. [HTML] https://iitj.ac.in/bioscience-bioengineering/en/Research-Highlights
+       Tokens extracted: ~226
+
+ 428. [HTML] https://www.iitj.ac.in/main/en/how-to-reach-iit-jodhpur
+       Tokens extracted: ~369
+
+ 429. [HTML] https://iitj.ac.in/office-of-academics/en/first-year-class-time-table
+       Tokens extracted: ~2067
+
+ 430. [HTML] https://iitj.ac.in/office-of-academics/en/academic-calendar
+       Tokens extracted: ~164
+
+ 431. [HTML] https://www.iitj.ac.in/Main/en/Help
+       Tokens extracted: ~283
+
+ 432. [HTML] https://iitj.ac.in/chemistry/en/project-staff-members
+       Tokens extracted: ~148
+
+ 433. [HTML] https://iitj.ac.in/admission-postgraduate-programs/en/list-of-shortlisted-candidates
+       Tokens extracted: ~342
+
+ 434. [HTML] https://iitj.ac.in/computer-science-engineering/en/faculty-achievements
+       Tokens extracted: ~705
+
+ 435. [HTML] https://iitj.ac.in/civil-and-infrastructure-engineering/en/water-resource-engineering-laboratory
+       Tokens extracted: ~238
+
+ 436. [HTML] https://www.iitj.ac.in/main/en/Help
+       Tokens extracted: ~283
+
+ 437. [HTML] https://iitj.ac.in/Office-of-Academics/en/Old-Regulations
+       Tokens extracted: ~356
+
+ 438. [HTML] https://events.iitj.ac.in/scci
+       Tokens extracted: ~715
+
+ 439. [HTML] https://iitj.ac.in/office-of-academics/en/academics
+       Tokens extracted: ~252
+
+ 440. [HTML] https://iitj.ac.in/main/en/research-highlight?dsl=2&dslID=682d62af-b4b9-46d8-8130-a2144d06e003
+       Tokens extracted: ~335
+
+ 441. [HTML] https://iitj.ac.in/physics/en/Research-Highlights?dsl=2&dslID=785a9a5e-2848-43b1-bc26-77dabb2b79b5
+       Tokens extracted: ~368
+
+ 442. [HTML] https://iitj.ac.in/main/en/why-pursue-a-career-@-iit-jodhpur
+       Tokens extracted: ~724
+
+ 443. [PDF] https://iitj.ac.in/PageImages/Gallery/07-2025/Academic_Regulations_Final_03_09_2019.pdf
+       Tokens extracted: ~14272
+
+ 444. [HTML] https://iitj.ac.in/office-of-academics/en/ug-registration-guidelines
+       Tokens extracted: ~384
+
+ 445. [HTML] https://www.iitj.ac.in/techscape/en/Techscape
+       Tokens extracted: ~473
+
+ 446. [HTML] https://iitj.ac.in/office-of-students/en/office-of-students
+       Tokens extracted: ~557
+
+ 447. [HTML] https://iitj.ac.in/chemistry/en/Booking-for-External-Sample
+       Tokens extracted: ~415
+
+ 448. [HTML] https://iitj.ac.in/computer-science-engineering/en/iit-jodhpur-industry-connect-2022
+       Tokens extracted: ~786
+
+ 449. [HTML] https://iitj.ac.in/mathematics/en/latest-news
+       Tokens extracted: ~215
+
+ 450. [HTML] https://iitj.ac.in/mathematics/en/doctoral-program
+       Tokens extracted: ~305
+
+ 451. [HTML] https://iitj.ac.in/mathematics/en/latest-events
+       Tokens extracted: ~1957
+
+ 452. [HTML] https://iitj.ac.in/electrical-engineering/en/curriculum
+       Tokens extracted: ~212
+
+ 453. [PDF] https://iitj.ac.in/PageImages/Gallery/07-2025/Curriculum-MTechMTech-PhDPhD-AIAY2021Onwards.pdf
+       Tokens extracted: ~833
+
+ 454. [HTML] https://iitj.ac.in/mathematics/en/hod-message
+       Tokens extracted: ~338
+
+ 455. [HTML] https://iitj.ac.in/mathematics/en/Research-Highlights?dsl=2&dslID=6da631bc-829f-4c61-b822-6d29310f0ec8
+       Tokens extracted: ~312
+
+ 456. [HTML] https://iitj.ac.in/physics/en/curriculum
+       Tokens extracted: ~141
+
+ 457. [PDF] https://iitj.ac.in/PageImages/Gallery/07-2025/Regulation_PG_2022-onwards_20022023.pdf
+       Tokens extracted: ~5202
+
+ 458. [HTML] https://iitj.ac.in/Electrical-Engineering/en/Research-Overview
+       Tokens extracted: ~753
+
+ 459. [HTML] https://www.iitj.ac.in/m/Index/593F6114-9BA2-4092-BD0D-4C668E78C4CC?lg=en
+       Tokens extracted: ~84
+
+ 460. [HTML] https://iitj.ac.in/electrical-engineering/en/News-Newsletter?dsl=2&dslID=94d697eb-8eb3-4978-b346-20374fc6f308
+       Tokens extracted: ~104
+
+ 461. [HTML] https://iitj.ac.in/electrical-engineering/en/project-staff-members
+       Tokens extracted: ~120
+
+ 462. [HTML] https://iitj.ac.in/physics/en/collaborations
+       Tokens extracted: ~355
+
+ 463. [HTML] https://iitj.ac.in/Chemistry/en/Research-Highlights?dsl=2&dslID=b01a0ca9-12f3-42d2-b3c5-cab0a9024cb0
+       Tokens extracted: ~292
+
