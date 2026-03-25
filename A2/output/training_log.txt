@@ -1,0 +1,24 @@
+============================================================
+TRAINING LOG — CHARACTER-LEVEL NAME GENERATION
+============================================================
+
+SHARED HYPERPARAMETERS
+----------------------------------------
+  Embedding size:   64
+  Hidden size:      128
+  Num layers:       2
+  Batch size:       64
+  Epochs:           150
+  Learning rate:    0.003
+  Gradient clip:    5.0
+  Optimizer:        Adam
+  LR scheduler:    ReduceLROnPlateau (factor=0.5, patience=15)
+  Loss function:    CrossEntropyLoss (ignore_index=PAD)
+
+MODEL COMPARISON
+----------------------------------------
+  Model                         Params   Train Time  Best Loss
+  ───────────────────────── ────────── ──────────── ──────────
+  VanillaRNN                    68,278       23.2s     0.9718
+  BidirectionalLSTM            478,134       53.8s     0.0001
+  AttentionRNN                 306,614       53.2s     0.9661

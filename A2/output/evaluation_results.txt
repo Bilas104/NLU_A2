@@ -1,0 +1,154 @@
+======================================================================
+EVALUATION REPORT — CHARACTER-LEVEL NAME GENERATION
+======================================================================
+
+Generation settings:
+  Names generated per model: 200
+  Temperature:               0.8
+  Max length:                20
+  Training set size:         1000
+
+──────────────────────────────────────────────────────────────────────
+QUANTITATIVE EVALUATION (Task 2)
+──────────────────────────────────────────────────────────────────────
+
+  Model                   Generated   Unique   Novelty  Diversity  Avg Len
+  ────────────────────── ────────── ──────── ───────── ────────── ────────
+  VanillaRNN                    200      180 1.5%     0.9000     6.5
+  BidirectionalLSTM             200      200 100.0%     1.0000     5.1
+  AttentionRNN                  200      176 3.0%     0.8800     6.3
+
+
+══════════════════════════════════════════════════════════════════════
+QUALITATIVE ANALYSIS: VanillaRNN (Task 3)
+══════════════════════════════════════════════════════════════════════
+
+  Realism breakdown:
+    Realistic names:     3
+    Questionable names:  0
+    Failed names:        0
+    Memorized (exact):   197
+
+  Representative REALISTIC samples (top 20):
+      1. Servanan
+      2. Salpa
+      3. Orvind
+
+  Memorized names (exact matches from training, up to 10):
+      1. Zubaida
+      2. Sumit
+      3. Parul
+      4. Soumya
+      5. Akilesh
+      6. Suila
+      7. Nirupama
+      8. Sarman
+      9. Karthik
+     10. Amay
+
+
+══════════════════════════════════════════════════════════════════════
+QUALITATIVE ANALYSIS: BidirectionalLSTM (Task 3)
+══════════════════════════════════════════════════════════════════════
+
+  Realism breakdown:
+    Realistic names:     195
+    Questionable names:  4
+    Failed names:        1
+    Memorized (exact):   0
+
+  Common failure modes:
+    - consonant_cluster: 1 occurrences
+
+  Representative REALISTIC samples (top 20):
+      1. Esus
+      2. Feb
+      3. Yanlok
+      4. Emtak
+      5. Rukk
+      6. Omwmeb
+      7. Pwusas
+      8. Cavas
+      9. Tomwas
+     10. Rok
+     11. Sobvum
+     12. Cemote
+     13. Ponob
+     14. Eseb
+     15. Isieq
+     16. Cwobom
+     17. Lwushn
+     18. Ejbum
+     19. Hamveb
+     20. Duxtod
+
+  Representative FAILURE samples (up to 10):
+      1. Ukxzdy
+
+
+══════════════════════════════════════════════════════════════════════
+QUALITATIVE ANALYSIS: AttentionRNN (Task 3)
+══════════════════════════════════════════════════════════════════════
+
+  Realism breakdown:
+    Realistic names:     6
+    Questionable names:  0
+    Failed names:        0
+    Memorized (exact):   194
+
+  Representative REALISTIC samples (top 20):
+      1. Nadeea
+      2. Taayir
+      3. Ala
+      4. Mahati
+      5. Anisha
+      6. Sina
+
+  Memorized names (exact matches from training, up to 10):
+      1. Aamir
+      2. Divit
+      3. Harshada
+      4. Bhavna
+      5. Jayanthi
+      6. Aadhira
+      7. Zainab
+      8. Saisha
+      9. Sita
+     10. Harsh
+
+
+══════════════════════════════════════════════════════════════════════
+DISCUSSION NOTES (for your report)
+══════════════════════════════════════════════════════════════════════
+
+
+1. REALISM OF GENERATED NAMES:
+   - Which model produces the most realistic-sounding names?
+   - Do the names follow Indian phonetic patterns?
+   - Are generated names pronounceable?
+
+2. NOVELTY vs MEMORIZATION:
+   - High novelty means the model is creative, but too high may mean
+     it's generating nonsense. The sweet spot is ~70-90%.
+   - Low memorization rate suggests the model has learned the underlying
+     pattern rather than rote memorization.
+
+3. COMMON FAILURE MODES:
+   - Vanilla RNN often suffers from character repetition (e.g., "Aaaaarav")
+     because it has no gating mechanism to control information flow.
+   - BLSTM may produce less coherent names during generation because
+     it was trained with bidirectional context but generates with only
+     forward context (train-generate mismatch).
+   - Attention RNN should handle longer names better because it can
+     look back at earlier characters to maintain consistency.
+
+4. MODEL COMPARISON:
+   - Vanilla RNN: fastest training, fewest parameters, but lower quality
+   - BLSTM: most parameters, train-generate mismatch is a key weakness
+   - Attention RNN: best at maintaining coherence over longer names,
+     slightly slower due to attention computation
+
+5. TEMPERATURE EFFECT:
+   - Low temperature (0.3-0.5): conservative, repetitive, more memorization
+   - Medium temperature (0.7-0.9): balanced creativity and coherence
+   - High temperature (1.0+): very diverse but more failures
